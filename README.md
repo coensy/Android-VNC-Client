@@ -1,4 +1,4 @@
 Android-VNC-Client
 ==================
 
-Honey home VNC Client Project - Private
+Honey home VNC Client Project 
